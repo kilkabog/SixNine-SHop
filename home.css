@@ -1,0 +1,9 @@
+.container {
+    margin: auto;
+    max-width: 1500px;
+    background-color: antiquewhite;
+}
+
+.logo {
+    margin: 0px;
+}
